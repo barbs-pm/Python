@@ -1,4 +1,12 @@
-# Python
-Códigos em python
+#  Como Funciona o Python
+Para criar um código em python, você deve salvá-lo como:
 
-Logica de programação básica em Python
+```
+nomeDoPrograma.py
+```
+Para compilar no terminal, você deve usar o *comando:*
+
+```
+python nomeDoPrograma.py
+```
+

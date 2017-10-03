@@ -10,3 +10,4 @@ Para compilar no terminal, você deve usar o *comando:*
 python nomeDoPrograma.py
 ```
 
+![cc](https://i.imgur.com/wdSPfgK.png)
